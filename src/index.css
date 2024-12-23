@@ -1,0 +1,10 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+@media (max-width: 576px) {
+    .card,
+    .header-div {
+        width: 400px !important;
+    }
+}
